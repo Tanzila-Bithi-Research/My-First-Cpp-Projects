@@ -4,6 +4,8 @@ Welcome! I am building these projects to master C++ logic. Each file represents 
 
 ---
 
+[My C++ Development Portfplio_20260307_052059_0000.png]
+
 ## 📂 Project List & Description
 
 ### 1️⃣ Student Grading System 🎓
