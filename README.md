@@ -1,18 +1,7 @@
-# 🚀 My C++ Real-Life Projects Collection
-
 ![Project Banner](My_C++_Development_Portfolio_20260307_052059_0000.png)
 
 ---
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Tanzila-Bithi-Research/My-First-Cpp-Projects/main/My_C++_Development_Portfolio_20260307_052059_0000.png" width="100%">
-</p>
-
----
-
-Welcome! I am building these projects to master C++ logic. Each file represents a real-world problem-solving application.
-
----
-
+# 🚀 My C++ Real-Life Projects Collection
 ## 📂 Project List & Description
 
 ### 1️⃣ Student Grading System 🎓
