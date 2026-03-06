@@ -1,4 +1,4 @@
-![Project Banner](My_C++_Development_Portfplio_20260307_052059_0000.png)
+![Project Banner](My C++ Development Portfplio_20260307_052059_0000.png)
 
 ---
 # 🚀 My C++ Real-Life Projects Collection
