@@ -1,8 +1,15 @@
-# My First C++ Projects 
+# 🚀 My C++ Real-Life Projects Collection
 
-Welcome to my repository! This is a collection of real-world C++ projects I am building to master the fundamentals of programming and logic building.
+Welcome! I am building these projects to master C++ logic. Each file represents a real-world problem-solving application.
 
-## 📋 Project 1: Student Grading System
+---
+
+## 📂 Project List & Description
+
+### 1️⃣ Student Grading System 🎓
+- **Description:** Calculates average marks and assigns grades (A+, A, B, etc.) automatically.
+- **File:** [View Code](./student_grading_system.cpp)
+
 This is a Command Line Interface (CLI) based application designed to automate the process of calculating academic results.
 
 ### Features
@@ -19,8 +26,21 @@ This is a Command Line Interface (CLI) based application designed to automate th
 
 ### How to Run
 1. Copy the code from `student_grading_system.cpp`.
-2. Paste it into any C++ compiler (like Cxxdroid on mobile or VS Code on PC).
+2. Paste it into any C++ compiler (like Cxxdroid on mobile or codeblocks & VS Code on PC).
 3. Compile and Run!
 
+### 2️⃣ Personal Expense Tracker 💰
+- **Description:** A daily budget manager that tracks spending and gives over-budget alerts.
+- **File:** [View Code](./expense_tracker.cpp)
+
+### 3️⃣ Digital Bank ATM Simulation 🏦
+- **Description:** A secure simulation of banking tasks like Balance Check, Deposit, and Withdrawal.
+- **File:** [View Code](./atm_simulation.cpp)
+
 ---
-*Follow my journey as I add more complex systems here!*
+
+## 🛠️ How to Use
+1. Copy the code from the respective `.cpp` files.
+2. Run them in any C++ compiler (like **Cxxdroid** on Android).
+
+---
